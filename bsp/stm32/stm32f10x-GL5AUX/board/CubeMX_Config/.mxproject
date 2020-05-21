@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=D:/MyCloud/TQWorking/GL5/rt-thread/bsp/stm32/stm32f10x-GL5AUX/board/CubeMX_Config/Inc
+HeaderPath=D:/MyCloud/TQWorking/GL5/TQ01M1-GL5-AUX/rt-thread/bsp/stm32/stm32f10x-GL5AUX/board/CubeMX_Config/Inc
 HeaderFiles=stm32f1xx_it.h;stm32f1xx_hal_conf.h;main.h;
-SourcePath=D:/MyCloud/TQWorking/GL5/rt-thread/bsp/stm32/stm32f10x-GL5AUX/board/CubeMX_Config/Src
+SourcePath=D:/MyCloud/TQWorking/GL5/TQ01M1-GL5-AUX/rt-thread/bsp/stm32/stm32f10x-GL5AUX/board/CubeMX_Config/Src
 SourceFiles=stm32f1xx_it.c;stm32f1xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]

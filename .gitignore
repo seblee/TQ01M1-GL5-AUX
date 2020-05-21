@@ -34,3 +34,5 @@ ncscope.*
 #ctag files
 tags
 
+bsp/stm32/stm32f10x-GL5AUX/board/CubeMX_Config/MDK-ARM
+bsp/stm32/stm32f10x-GL5AUX/board/CubeMX_Config/Drivers
